@@ -1,9 +1,25 @@
-# LiveDocs 📝
+# REAL TIME COLLABORATIVE DOCUMENT EDITOR
+
+*COMPANY* : CODTECH IT SOLUTION
+
+*NAME* : ABHISHEK KUMAR
+
+*INTERN ID* : CTIS4271
+
+*DOMAIN* : FULL STACK WEB DEVELOPMENT
+
+*DURATION* : 16 WEEKS
+
+*MENTOR* :NEELA SANTOSH KUMAR 
+
+
+# REAL TIME COLLABORATIVE DOCUMENT EDITOR
+
 > Write together. In real-time.
 
 LiveDocs is a full-stack, real-time collaborative document editor that allows multiple users to create, edit, and share documents simultaneously. Inspired by the core functionalities of Google Docs, it provides an instant-syncing experience with a clean, modern SaaS-style user interface.
 
-## 🌟 Features
+##  Features
 
 * **Real-time Collaboration:** Edit documents live with others using WebSockets. Changes appear instantly across all connected clients.
 * **Smart Auto-Save:** Implements an optimized debounced auto-save mechanism that efficiently syncs your work to the cloud without overloading the database.
@@ -12,7 +28,7 @@ LiveDocs is a full-stack, real-time collaborative document editor that allows mu
 * **Rich Text Editing:** Integrated Quill.js providing a robust toolbar for formatting text, adding lists, code blocks, and more.
 * **Document Management:** Easily delete documents directly from the workspace when they are no longer needed.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend:**
 * [React.js](https://reactjs.org/) (Vite)
@@ -29,7 +45,7 @@ LiveDocs is a full-stack, real-time collaborative document editor that allows mu
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 Follow these steps to set up the project locally on your machine.
 
@@ -78,7 +94,7 @@ npm run dev
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 livedocs/
@@ -97,7 +113,7 @@ livedocs/
     └── package.json
 ```
 
-## 🌐 API Routes & Socket Events
+##  API Routes & Socket Events
 
 ### REST API
 * `DELETE /documents/:id` - Deletes a specific document from the database.
@@ -109,7 +125,7 @@ livedocs/
 * `receive_changes` (Server -> Client): Broadcasts changes to other users in the room.
 * `save-document` (Client -> Server): Triggers a database update for the document.
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, issues, and feature requests are welcome!
 Feel free to check [issues page](#) if you want to contribute.
@@ -120,5 +136,5 @@ Feel free to check [issues page](#) if you want to contribute.
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
+##  License
 This project is licensed under the MIT License.
