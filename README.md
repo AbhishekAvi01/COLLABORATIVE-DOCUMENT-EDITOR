@@ -138,3 +138,14 @@ Feel free to check [issues page](#) if you want to contribute.
 
 ##  License
 This project is licensed under the MIT License.
+
+
+## OUTPUT
+
+<img width="1918" height="862" alt="Image" src="https://github.com/user-attachments/assets/2c4fd50c-9548-4630-83b0-824545922dd9" />
+
+<img width="1917" height="867" alt="Image" src="https://github.com/user-attachments/assets/7d630dc8-0ba2-4e16-be85-ba08e4d29778" />
+
+<img width="1915" height="862" alt="Image" src="https://github.com/user-attachments/assets/881b1e4e-9d28-409c-ac5a-a8d01fe4e597" />
+
+<img width="1912" height="920" alt="Image" src="https://github.com/user-attachments/assets/8f544be0-50eb-48ba-91c7-d017d9bce940" />
